@@ -68,5 +68,10 @@
     "id": "14",
     "titulo": "Reporte guardado 14",
     "url": "https://bugbounty.info/"
+  },
+  {
+    "id": "15",
+    "titulo": "Reporte guardado 15",
+    "url": "https://medium.com/geekculture/main-app-bug-bounty-methodology-v3-e6310e21b88e"
   }
 ]
