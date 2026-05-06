@@ -28,5 +28,10 @@
     "id": "6",
     "titulo": "Reporte guardado 6",
     "url": "https://pentester.land/writeups/"
+  },
+  {
+    "id": "7",
+    "titulo": "Reporte guardado 7",
+    "url": "https://medium.com/@shakti.gtp/utilizing-lockdown-blind-sqli-leads-to-account-takeover-data-extraction-3705ce8bdb62"
   }
 ]
