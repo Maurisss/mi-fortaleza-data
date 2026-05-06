@@ -3,5 +3,10 @@
     "id": "1",
     "titulo": "Inter\u00e9s de estudio 1",
     "url": "https://github.com/nullthrix"
+  },
+  {
+    "id": "2",
+    "titulo": "Reporte guardado 2",
+    "url": "https://medium.com/@cyberrado57/exploiting-supabase-misconfigurations-authentication-bypass-and-privilege-escalation-for-1-800-f20d02557e47"
   }
 ]
