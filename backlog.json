@@ -78,5 +78,10 @@
     "id": "16",
     "titulo": "Reporte guardado 16",
     "url": "https://nav1n0x.gitbook.io/a-guide-to-manually-hunting-sql-injection"
+  },
+  {
+    "id": "17",
+    "titulo": "Reporte guardado 17",
+    "url": "https://bxmbn.medium.com/ultimate-tips-and-tricks-to-find-more-cross-site-scripting-vulnerabilities-d2913765e2d5"
   }
 ]
