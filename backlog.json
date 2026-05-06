@@ -73,5 +73,10 @@
     "id": "15",
     "titulo": "Reporte guardado 15",
     "url": "https://medium.com/geekculture/main-app-bug-bounty-methodology-v3-e6310e21b88e"
+  },
+  {
+    "id": "16",
+    "titulo": "Reporte guardado 16",
+    "url": "https://nav1n0x.gitbook.io/a-guide-to-manually-hunting-sql-injection"
   }
 ]
