@@ -23,5 +23,10 @@
     "id": "5",
     "titulo": "Reporte guardado 5",
     "url": "https://infosecwriteups.com/how-i-got-my-first-13500-bounty-through-parameter-polluting-hpp-179666b8e8bb"
+  },
+  {
+    "id": "6",
+    "titulo": "Reporte guardado 6",
+    "url": "https://pentester.land/writeups/"
   }
 ]
