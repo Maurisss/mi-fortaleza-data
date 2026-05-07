@@ -173,5 +173,10 @@
     "id": "35",
     "titulo": "Reporte guardado 35",
     "url": "https://medium.com/@gkhck496/from-long-term-hacking-to-instant-rewards-finding-sqli-in-3-minutes-worth-3125-ac36c6e950bf"
+  },
+  {
+    "id": "36",
+    "titulo": "Reporte guardado 36",
+    "url": "https://medium.com/@srilakivarma/the-hidden-flaw-sql-injection-in-a-file-download-api-endpoint-65b3819d168d"
   }
 ]
