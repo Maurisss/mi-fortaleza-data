@@ -158,5 +158,10 @@
     "id": "32",
     "titulo": "Reporte guardado 32",
     "url": "https://th3m4rk5man.medium.com/bypassed-an-admin-panel-using-sql-payloads-37529331aa1c"
+  },
+  {
+    "id": "33",
+    "titulo": "Reporte guardado 33",
+    "url": "https://fdzdev.medium.com/login-bypass-and-full-account-takeover-sql-exploits-bug-bounty-2d325d3921b8"
   }
 ]
