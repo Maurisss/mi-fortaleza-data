@@ -138,5 +138,10 @@
     "id": "28",
     "titulo": "Reporte guardado 28",
     "url": "https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398"
+  },
+  {
+    "id": "29",
+    "titulo": "Reporte guardado 29",
+    "url": "https://medium.com/@bug4y0u/how-i-got-4-sqli-vulnerabilities-at-one-target-manually-using-the-repeater-tab-ed4eb1f84147"
   }
 ]
