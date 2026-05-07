@@ -143,5 +143,10 @@
     "id": "29",
     "titulo": "Reporte guardado 29",
     "url": "https://medium.com/@bug4y0u/how-i-got-4-sqli-vulnerabilities-at-one-target-manually-using-the-repeater-tab-ed4eb1f84147"
+  },
+  {
+    "id": "30",
+    "titulo": "Reporte guardado 30",
+    "url": "https://medium.com/@christophelimpalair/bypass-admin-login-with-sql-injections-sqlmap-bb60d447a1e2"
   }
 ]
