@@ -168,5 +168,10 @@
     "id": "34",
     "titulo": "Reporte guardado 34",
     "url": "https://medium.com/@medz20876/blog-post-bypassing-an-admin-panel-with-sql-injection-20b844442711"
+  },
+  {
+    "id": "35",
+    "titulo": "Reporte guardado 35",
+    "url": "https://medium.com/@gkhck496/from-long-term-hacking-to-instant-rewards-finding-sqli-in-3-minutes-worth-3125-ac36c6e950bf"
   }
 ]
